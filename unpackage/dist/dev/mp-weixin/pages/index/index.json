@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "list-item": "/component/index/listItem",
+    "scroll-bar": "/component/common/scrollBar",
+    "nothing": "/component/common/nothing"
+  }
+}
